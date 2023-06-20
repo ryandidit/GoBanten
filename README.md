@@ -7,12 +7,12 @@ mata kuliah Basis Data Lanjut
 <ul>
   <li>I Made Satria Bimantara</li>
   <li>Ni Made Putri Wahyuni</li>
-  <li>I Putu Ryan paramaditya</li>
   <li>I Gede Aditya Mahardika</li>
+  <li>I Putu Ryan Paramaditya</li>
 </ul>
 
 <h3>Penjelasan</h3>
-<img src=https://github.com/ryandidit/GoBanten/assets/65303453/2b5fcd28-c5cd-4b53-a31f-cc30fe80dd7d width=300px height=auto>
+<img src=https://github.com/ryandidit/GoBanten/assets/65303453/2b5fcd28-c5cd-4b53-a31f-cc30fe80dd7d width=500px height=auto align=center>
 
 Aplikasi Go-Banten adalah suatu aplikasi berbasis web yang memfasilitasi para pembeli dan penjual banten. Pada aplikasi ini melibatkan 3 jenis pengguna yaitu administrator, penjual dan pembeli. 
 
@@ -33,6 +33,12 @@ Keranjang belanja adalah daftar pembelian yang belum dibayar. Disini pembeli dap
 Check out adalah tahapan pembayaran banten. Disini pembeli harus memasukan beberapa informasi pengiriman yang diperlukan.
 Pemberitahuan merupakan daftar infomasi jika terdapat kendala pada suatu pesanan.
 Pesanan merupakan daftar pesanan berdasarkan jenisnya yaitu pesanan diproses, dikirim, selesai.
+
+<h3>Desain ERD</h3>
+<img src=https://github.com/ryandidit/GoBanten/assets/65303453/e4eecce9-1c25-431f-bd4a-06053683fe77 width=800px height=auto align=center>
+<img src=https://github.com/ryandidit/GoBanten/assets/65303453/c57d4b06-eb6b-45bd-bea9-84420006cdc7 width=800px height=auto align=center>
+
+
 
 
 
