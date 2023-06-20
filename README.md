@@ -12,7 +12,7 @@ mata kuliah Basis Data Lanjut
 </ul>
 
 <h3>Penjelasan</h3>
-![image](https://github.com/ryandidit/GoBanten/assets/65303453/2b5fcd28-c5cd-4b53-a31f-cc30fe80dd7d)
+<img src=https://github.com/ryandidit/GoBanten/assets/65303453/2b5fcd28-c5cd-4b53-a31f-cc30fe80dd7d>
 
 Aplikasi Go-Banten adalah suatu aplikasi berbasis web yang memfasilitasi para pembeli dan penjual banten. Pada aplikasi ini melibatkan 3 jenis pengguna yaitu administrator, penjual dan pembeli. 
 
