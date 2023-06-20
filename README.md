@@ -12,9 +12,9 @@ mata kuliah Basis Data Lanjut
 </ul>
 
 <h3>Penjelasan</h3>
-<img src=https://github.com/ryandidit/GoBanten/assets/65303453/2b5fcd28-c5cd-4b53-a31f-cc30fe80dd7d width=500px height=auto align=center><br>
+<img src=https://github.com/ryandidit/GoBanten/assets/65303453/2b5fcd28-c5cd-4b53-a31f-cc30fe80dd7d width=500px height=auto align=center>
 
-Aplikasi Go-Banten adalah suatu aplikasi berbasis web yang memfasilitasi para pembeli dan penjual banten. Pada aplikasi ini melibatkan 3 jenis pengguna yaitu administrator, penjual dan pembeli. 
+<p>Aplikasi Go-Banten adalah suatu aplikasi berbasis web yang memfasilitasi para pembeli dan penjual banten. Pada aplikasi ini melibatkan 3 jenis pengguna yaitu administrator, penjual dan pembeli.</p>
 
 <em>Administrator.</em> Tiap kabupaten terdapat 1 admin. 
 Bertugas sebagai pusat bantuan 
@@ -38,7 +38,10 @@ Pesanan merupakan daftar pesanan berdasarkan jenisnya yaitu pesanan diproses, di
 <img src=https://github.com/ryandidit/GoBanten/assets/65303453/e4eecce9-1c25-431f-bd4a-06053683fe77 width=600px height=auto align=center>
 <img src=https://github.com/ryandidit/GoBanten/assets/65303453/c57d4b06-eb6b-45bd-bea9-84420006cdc7 width=600px height=auto align=center>
 
-
+<h3>Tampilan Aplikasi</h3>
+<p>
+  
+</p>
 
 
 
