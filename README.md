@@ -1,7 +1,7 @@
 # GoBanten
 
-<p> Merupakan Aplikasi Berbasis web E-Commerce untuk menyasar pasar bebantenan atau upakara agama hindu di Bali, ini dibuat untuk memenuhi final Project
-  mata kuliah Basis Data Lanjut</p>
+Merupakan Aplikasi Berbasis web E-Commerce untuk menyasar pasar bebantenan atau upakara agama hindu di Bali, ini dibuat untuk memenuhi final Project
+mata kuliah Basis Data Lanjut
 
 <h3>Pengembang</h3>
 <ul>
