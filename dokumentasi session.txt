@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/21652702/multidimensional-array-in-php-session
+
+https://www.daniweb.com/programming/web-development/threads/83880/creating-a-multi-dimensional-session-variable
+
+how to make multidimensional session in php
