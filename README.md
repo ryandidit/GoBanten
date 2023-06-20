@@ -35,8 +35,8 @@ Pemberitahuan merupakan daftar infomasi jika terdapat kendala pada suatu pesanan
 Pesanan merupakan daftar pesanan berdasarkan jenisnya yaitu pesanan diproses, dikirim, selesai.
 
 <h3>Desain ERD</h3>
-<img src=https://github.com/ryandidit/GoBanten/assets/65303453/e4eecce9-1c25-431f-bd4a-06053683fe77 width=800px height=auto align=center>
-<img src=https://github.com/ryandidit/GoBanten/assets/65303453/c57d4b06-eb6b-45bd-bea9-84420006cdc7 width=800px height=auto align=center>
+<img src=https://github.com/ryandidit/GoBanten/assets/65303453/e4eecce9-1c25-431f-bd4a-06053683fe77 width=600px height=auto align=center>
+<img src=https://github.com/ryandidit/GoBanten/assets/65303453/c57d4b06-eb6b-45bd-bea9-84420006cdc7 width=600px height=auto align=center>
 
 
 
