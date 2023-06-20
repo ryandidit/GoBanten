@@ -39,11 +39,14 @@ Pesanan merupakan daftar pesanan berdasarkan jenisnya yaitu pesanan diproses, di
 <img src=https://github.com/ryandidit/GoBanten/assets/65303453/c57d4b06-eb6b-45bd-bea9-84420006cdc7 width=600px height=auto align=center>
 
 <h3>Tampilan Aplikasi</h3>
-<p>
-  
-</p>
-
-
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/05ccf215-0549-4a60-a816-b6a2471d0db6 width=600px height=auto align=center></p>
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/c6810a9c-c674-4b15-bf6d-fa7b96b365d5 width=600px height=auto align=center></p>
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/ca527292-5bb4-4aee-b176-0a000e38a8ed width=600px height=auto align=center></p>
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/55c43724-404c-4c5b-b98f-25f01aa3a0ae width=600px height=auto align=center></p>
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/d81eb4e3-2daf-4bb1-bad3-1a13f9daf47d width=600px height=auto align=center></p>
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/f6b16bc6-9e54-4c18-9a7c-224d2c83972b width=600px height=auto align=center></p>
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/47ab9795-3744-441b-bb6c-0682dd6a612a width=600px height=auto align=center></p>
+<p><img src=https://github.com/ryandidit/GoBanten/assets/65303453/285c942a-f4e4-4b93-87c8-fa8cc6fbf2cc width=600px height=auto align=center></p>
 
 
 
